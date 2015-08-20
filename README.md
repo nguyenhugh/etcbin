@@ -1,2 +1,2 @@
 # etcbin
-Welcome to Hugh's mind
+=- Welcome to Hugh's mind -=
